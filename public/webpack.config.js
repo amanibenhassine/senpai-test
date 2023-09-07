@@ -25,7 +25,9 @@ let htaccessoptions = {
 const config  = {
   entry: {
     "main/senpai-wp-test-loader": path.resolve(__dirname, 'src','main.js'),
-    "main/senpai-wp-test-public": path.resolve(__dirname, 'src','public.js')
+    "main/senpai-wp-test-public": path.resolve(__dirname, 'src','public.js'),
+    "main/senpai-wp-test-test": path.resolve(__dirname, 'src','test.js')
+
   },
   output: {
     path: path.resolve(__dirname, 'dist'),

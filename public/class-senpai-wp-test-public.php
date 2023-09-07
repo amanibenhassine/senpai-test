@@ -69,5 +69,8 @@ class Senpai_Wp_Test_Public {
 		) );
 
 	}
+	public function senpai_publix_ajax_handler (){
+		
+	}
 
 }

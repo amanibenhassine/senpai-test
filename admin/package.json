@@ -1,6 +1,6 @@
 {
   "name": "senpai-wp-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.3.0",
-    "jquery": "^3.6.4",
+    "jquery": "^3.7.1",
     "js-loading-overlay": "^1.2.0",
     "public-ip": "^6.0.1",
     "sweetalert2": "^11.7.3"
